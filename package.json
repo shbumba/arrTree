@@ -10,16 +10,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/vitaly63/justifyHack"
+    "url": "https://github.com/vitaly63/arrTree"
   },
   "author": "Vitaly Fomin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vitaly63/justifyHack/issues"
+    "url": "https://github.com/vitaly63/arrTree/issues"
   },
-  "homepage": "https://github.com/vitaly63/justifyHack",
-  "devDependencies": {},
-  "dependencies": {
-    "jquery": "^1.11.1"
-  }
+  "homepage": "https://github.com/vitaly63/arrTree",
+  "devDependencies": {}
 }
