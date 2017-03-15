@@ -5,12 +5,6 @@ A library that allows you to create an object tree from a string and work with i
 
 ### How to use? ###
 
-Create object
-```javascript
-var myObj = {};
-```
-
-And add new values.
 ```javascript
 //Create object
 var myObj = {};
