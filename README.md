@@ -1,6 +1,8 @@
 # arrTree
 A library that allows you to create an object tree from a string and work with it.
 
+**Demo**: http://codepen.io/shimba/pen/RpZXVe
+
 ### How to use? ###
 
 Create object
@@ -14,7 +16,7 @@ And add new values.
 var myObj = {};
 
 //And add new values.
-ArrTree.set(myObj, 'myKey', 'myVal');
+ArrTree.set(myObj, 'myKey', {});
 ArrTree.set(myObj, 'myKey.keyTree', 'treeVal');
 
 //Get value
